@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coverlet", "Coverlet\Coverlet.csproj", "{25F0EEFF-066F-4DF9-AB76-0EB20A173B95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coverlet.Ms.Tests", "Coverlet.MsTests\Coverlet.Ms.Tests.csproj", "{04FF9C27-9ED6-486C-BA80-BE812D3FEDAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coverlet.Ms.Tests", "Coverlet.Ms.Tests\Coverlet.Ms.Tests.csproj", "{04FF9C27-9ED6-486C-BA80-BE812D3FEDAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coverlet.XUnit.Tests", "Coverlet.Tests\Coverlet.XUnit.Tests.csproj", "{6D14DF84-31B4-492C-B6C8-A14FE1E3FAC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coverlet.XUnit.Tests", "Coverlet.XUnit.Tests\Coverlet.XUnit.Tests.csproj", "{6D14DF84-31B4-492C-B6C8-A14FE1E3FAC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="21" visitedSequencePoints="0" numBranchPoints="14" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="14" minCyclomaticComplexity="2" visitedClasses="0" numClasses="3" visitedMethods="0" numMethods="3" />
   <Modules>
-    <Module hash="FE51DF3E-5A5F-4D65-A672-77E285439979">
+    <Module hash="4CFA5215-8FA0-4AE1-9754-9F11E736698A">
       <ModulePath>Coverlet.dll</ModulePath>
-      <ModuleTime>2019-06-30T05:36:02</ModuleTime>
+      <ModuleTime>2019-06-30T09:39:02</ModuleTime>
       <ModuleName>Coverlet</ModuleName>
       <Files>
         <File uid="1" fullPath="C:\Users\apaquette\source\repos\Coverlet\Coverlet\Program.cs" />
@@ -60,9 +60,9 @@
         </Class>
       </Classes>
     </Module>
-    <Module hash="2E71ED0A-8991-4D6E-901F-18C4EE050B07">
+    <Module hash="04994409-097D-49F8-9069-96CDEA0D2E68">
       <ModulePath>Coverlet.MsTests.dll</ModulePath>
-      <ModuleTime>2019-06-30T05:36:02</ModuleTime>
+      <ModuleTime>2019-06-30T09:39:02</ModuleTime>
       <ModuleName>Coverlet.MsTests</ModuleName>
       <Files>
         <File uid="2" fullPath="C:\Users\apaquette\.nuget\packages\microsoft.net.test.sdk\16.0.1\build\netcoreapp1.0\Microsoft.NET.Test.Sdk.Program.cs" />
