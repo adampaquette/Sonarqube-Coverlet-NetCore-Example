@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.0.1" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Coverlet\Coverlet.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <!-- SonarQube needs this -->
+    <ProjectGuid>{811A17A8-C2C7-49B4-B6FF-5DCB40BA1399}</ProjectGuid>
+  </PropertyGroup>
+
+</Project>
