@@ -1,2 +1,2 @@
 # Sonarqube-Coverlet-NetCore-Example
-This serve as an example how to integrate Sonarqube with Coverlet for a .Net Core project. 
+This serves as an example for integrating Sonarqube with Coverlet for a .Net Core project.
