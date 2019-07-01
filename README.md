@@ -6,6 +6,7 @@ This serves as an example for integrating Sonarqube with Coverlet for a .Net Cor
 - .NET Coverlet global tool requires .NET Core 2.2 and above
 - dotnet tool install --global dotnet-sonarscanner
 - dotnet tool install --global coverlet.console
+- dotnet tool install --global Cake.Tool
 
 *How to run this example*
 

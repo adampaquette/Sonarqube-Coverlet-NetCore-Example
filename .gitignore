@@ -351,3 +351,5 @@ healthchecksdb
 MigrationBackup/
 
 coverage.opencover.*
+tools/
+testoutput/
