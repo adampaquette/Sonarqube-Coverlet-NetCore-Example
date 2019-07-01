@@ -6,9 +6,15 @@ namespace Coverlet.MsTests
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Test1()
         {
-            new Coverlet.Program();
+            Program.Main(new []{""});
+        }
+
+        [TestMethod]
+        public void Test2()
+        {
+            Program.Main(new[] { "", "", "", "" });
         }
     }
 }

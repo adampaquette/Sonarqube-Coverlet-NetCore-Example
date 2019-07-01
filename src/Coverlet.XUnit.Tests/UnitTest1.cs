@@ -8,7 +8,13 @@ namespace Coverlet.Tests
         [Fact]
         public void Test1()
         {
-            new Coverlet.Program();
+            Program.Main(new[] { "" });
+        }
+
+        [Fact]
+        public void Test2()
+        {
+            Program.Main(new[] { "","","","" });
         }
     }
 }
