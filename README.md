@@ -10,7 +10,9 @@ This serves as an example for integrating Sonarqube with Coverlet for a .Net Cor
 
 *How to run this example*
 
-- Run Analyse.bat in src folder
+- Run AnalyseWithGlobalTools.bat in src folder Or
+- Run AnalyseWithNugetTools.bat in src folder Or
+- Run dotnet cake -target=CoreTests
 
 *More information*
 
